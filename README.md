@@ -28,8 +28,7 @@ visit the [examples](../examples/) directory and review the format of `recipe-na
 
 ## todo
 
-* tests verifying metadata format
-* tests verifying recipe metadata format
+* tests verifying recipe format
 * gh-pages javascript site for 
   * rendering
   * tagging
