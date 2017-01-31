@@ -1,5 +1,8 @@
 # Mushroom Cheddar Quiche
 
+![Hatch Mushroom Quiche](images/cheese-quiche.JPG "A Mushroom cheddar quiche with added hatch chilis")
+
+
 ## ingredients
 
 * 6 eggs
