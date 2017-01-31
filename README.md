@@ -12,7 +12,7 @@ recipes contains the markdown files `recipe-name.md ` within parent categorical 
 
 ## metadata
 
-metadata contains json metadata files detailing the corresponding `recipe-name.md` within the same categorical directories.
+metadata contains json metadata files detailing the corresponding `recipe-name.json` within the same categorical directories.
 
 
 
