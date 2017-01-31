@@ -1,0 +1,34 @@
+{
+  "name": "foodninja",
+  "version": "1.0.0",
+  "description": "recipe testing and validation for foodninja",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "standard && tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawsome/foodninja.git"
+  },
+  "keywords": [
+    "foodninja",
+    "recipe",
+    "validation"
+  ],
+  "author": "Andrew Tynefield <ndru@ndru.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawsome/foodninja/issues"
+  },
+  "homepage": "https://github.com/jawsome/foodninja#readme",
+  "devDependencies": {
+    "markdownlint": "^0.3.1",
+    "standard": "^8.6.0",
+    "standard-markdown": "^2.3.0",
+    "tap": "^10.0.0"
+  }
+}
