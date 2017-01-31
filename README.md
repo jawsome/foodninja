@@ -1,5 +1,7 @@
 # foodninja
 
+![Build Status](https://travis-ci.org/jawsome/foodninja.svg?branch=master)
+
 >
 > irl integration testing verified
 >
