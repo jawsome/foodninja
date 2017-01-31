@@ -1,18 +1,29 @@
 # Oven-roasted Carrots
 
+> prepared by @jawsome
+
+![Roasted carrots (on the right side of the plate)](../images/oven-roasted-carrots.jpg)
+
 ## ingredients
 
-* large, even-sized carrots
+* carrots
+  * large
+  * even-sized
 * olive oil
 * dill weed
 * thyme
 * parsley 
 
+## tools
+
+* half-sheet baking pan
+* aluminum foil to cover
+
 ## instructions
 
 ### pre
 
-* pre-heat oven 400°F using setting broil
+1. pre-heat oven 400°F using setting broil
 
 ### prep
 
