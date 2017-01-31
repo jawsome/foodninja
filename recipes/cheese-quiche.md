@@ -57,5 +57,5 @@ Est. time: 35-45  min
 ### modifications
 
 Mushrooms can be replaced or augmented with nearly any vegetable or soft food:
-* Lightly pan fry until tinder and season as desired
+* Lightly pan fry until tender and season as desired
 * Cubed ham works great
