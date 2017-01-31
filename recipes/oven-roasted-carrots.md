@@ -1,5 +1,7 @@
 # Oven-roasted Carrots
 
+![Roasted carrots (on the right side of the plate)](../images/oven-roasted-carrots.jpg)
+
 ## ingredients
 
 * carrots
