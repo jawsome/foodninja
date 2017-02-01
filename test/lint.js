@@ -18,7 +18,7 @@ const lint = [
 const mdpattern = /\/[a-z-.]+\.md$/
 
 fs.readdir(path.join(__dirname, '/../examples/'), function (er, dirlist) {
-  var files = dirlist.map(function (file) {
+  const files = dirlist.map(function (file) {
     return path.join(path.join(__dirname, '/../examples/'), file)
   })
 
@@ -45,7 +45,7 @@ fs.readdir(path.join(__dirname, '/../examples/'), function (er, dirlist) {
 })
 
 fs.readdir(path.join(__dirname, '/../recipes/'), function (er, dirlist) {
-  var files = dirlist.map(function (file) {
+  const files = dirlist.map(function (file) {
     return path.join(path.join(__dirname, '/../recipes/'), file)
   })
 
