@@ -12,7 +12,7 @@
 * olive oil
 * dill weed
 * thyme
-* parsley 
+* parsley
 
 ## tools
 
@@ -30,12 +30,13 @@
 Est. time: 2-5 min
 
 1. wash carrots thoroughly
-2. if (very hard dirty skin) 
-  * consider peeling
-3. in a flat, long dish/bowl (you want them to be able to lay down) consolidate seasonings and oil
-4. coat carrots in oil+seasoning mix (rolling around is ok)
-5. cover a flat baking sheet in foil 
-6. remove coated carrots from bowl, place on foiled baking sheet
+    1. if (very hard dirty skin)
+        1. consider peeling
+1. in a flat, long dish/bowl (you want them to be able to lay down)
+  consolidate seasonings and oil
+1. coat carrots in oil+seasoning mix (rolling around is ok)
+1. cover a flat baking sheet in foil
+1. remove coated carrots from bowl, place on foiled baking sheet
 
 ### cook
 
@@ -43,12 +44,12 @@ Est. time: 15-20  min
 > depending on: size of carrots (touch with fork to test softness)
 
 1. place baking sheet on middle rack
-2. wait 5 minutes
-3. remove sheet from oven
-4. rotate carrots
-  * add more oil/roll around in the process
-  * note: be gentle, don't want them falling apart potentially
-5. repeat 2-4 until soft to fork-touch
+1. wait 5 minutes
+1. remove sheet from oven
+1. rotate carrots
+    * add more oil/roll around in the process
+    * note: be gentle, don't want them falling apart potentially
+1. repeat 2-4 until soft to fork-touch
 
 ### modifications
 
