@@ -5,7 +5,7 @@
 ![](../images/recipe-name.jpg)
 
 Total cook time: () mins
-(optional) Summary: 
+(optional) Summary:
 
 ## ingredients
 
@@ -26,16 +26,16 @@ Total cook time: () mins
 Est. time: () mins
 
 1. steps necessary prior to cook
-2. other steps
-  1. sub-steps
-    * sub sub-steps
+1. other steps
+    1. sub-steps
+        1. sub sub-steps
+1. ugh
 
 ### cook
 
 Est. time: () mins
-> depending on: 
+> depending on:
 
 ## sources
 
-*
-
+* my mom
