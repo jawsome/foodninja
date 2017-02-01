@@ -36,7 +36,6 @@ fs.readdir(path.join(__dirname, '/../examples/'), function (er, dirlist) {
       t.test(lint[i]['name'], function (child) {
         lint[i]['entry'](files, function (err, res) {
           child.error(err)
-          child.ok(res)
           child.end()
         })
       })
@@ -64,7 +63,6 @@ fs.readdir(path.join(__dirname, '/../recipes/'), function (er, dirlist) {
       t.test(lint[i]['name'], function (child) {
         lint[i]['entry'](files, function (err, res) {
           child.error(err)
-          child.ok(res)
           child.end()
         })
       })
