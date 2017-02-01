@@ -1,7 +1,7 @@
 # Mushroom Cheddar Quiche
 
-![Hatch Mushroom Quiche](../images/cheese-quiche.JPG "A Mushroom cheddar quiche with added hatch chilis")
-
+![Hatch Mushroom Quiche](../images/cheese-quiche.JPG
+  "A Mushroom cheddar quiche with added hatch chilis")
 
 ## ingredients
 
@@ -9,14 +9,14 @@
 * 1 cup heavy cream
 * 8 ounces finely shredded sharp cheddar cheese
 * 1/2 pound fresh mushrooms
- * Worth it to try and get pre-sliced mushrooms, otherwise slice ~3-5mm wide
+  * Worth it to try and get pre-sliced mushrooms, otherwise slice ~3-5mm wide
 * 2 1/2 to 3 1/2 tablespoons butter
- * Kerrygold is best
+  * Kerrygold is best
 * 1/2 teaspoon salt
 * Pepper
 * Garlic powder
 * [Mrs. Dash Extra Spicy](http://a.co/3t9uTQl)
- * Can be substituted if you hate freedom
+  * Can be substituted if you hate freedom
 * Onion powder
 
 ## tools
@@ -30,21 +30,23 @@
 ### pre
 
 1. Pre-heat oven to 350°
-2. Warm the pie dish on the range over medium-ish heat until it's hot enough to melt butter
-3. Cover the bottom and sides of the pie dish with melted butter
-4. Remove dish from heat and allow to cool
+1. Warm the pie dish on the range over medium-ish heat until
+  it's hot enough to melt butter
+1. Cover the bottom and sides of the pie dish with melted butter
+1. Remove dish from heat and allow to cool
 
 ### prep
 
 Est. time: 10 min
 
 1. Melt 2 tbps butter in a large pan over medium heat
-2. Sauté mushrooms 4-6 minutes or until turning brown and tender, season with salt, pepper, garlic and onion powders while cooking
-3. Crack the eggs into the bowl
-4. Mix heavy cream and seasonings into the bowl, beat until thoroughly combined
-5. Gingerly and evenly spread the cheese around the pie dish
-6. Place mushrooms on top of cheese
-7. Pour egg and creme mixture over the cheese
+1. Sauté mushrooms 4-6 minutes or until turning brown and tender,
+  season with salt, pepper, garlic and onion powders while cooking
+1. Crack the eggs into the bowl
+1. Mix heavy cream and seasonings into the bowl, beat until thoroughly combined
+1. Gingerly and evenly spread the cheese around the pie dish
+1. Place mushrooms on top of cheese
+1. Pour egg and creme mixture over the cheese
 
 ### cook
 
@@ -52,10 +54,11 @@ Est. time: 35-45  min
 > depending on: Inserting a knife in the center comes out clean
 
 1. Place pie dish on the center rack
-2. Cook at 350° for approximately 35-45 minutes
+1. Cook at 350° for approximately 35-45 minutes
 
 ### modifications
 
 Mushrooms can be replaced or augmented with nearly any vegetable or soft food:
+
 * Lightly pan fry until tinder and season as desired
 * Cubed ham works great
